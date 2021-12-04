@@ -795,7 +795,7 @@ img.header__logo-img{
 
 /* Lịch sử tìm kiếm */
 .header__search-history{
-    z-index: 1;
+    z-index: 2;
     position: absolute;
     top:calc(100% + 2px);
     left: 0;
